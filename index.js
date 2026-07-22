@@ -5,12 +5,12 @@ allDice.forEach((img) => {
 });
 document.addEventListener('DOMContentLoaded', () => {
   const images = [
-    '/Dicee+Challenge+-+Starting+Files/images/dice1.png',
-    '/Dicee+Challenge+-+Starting+Files/images/dice2.png',
-    '/Dicee+Challenge+-+Starting+Files/images/dice3.png',
-    '/Dicee+Challenge+-+Starting+Files/images/dice4.png',
-    '/Dicee+Challenge+-+Starting+Files/images/dice5.png',
-    '/Dicee+Challenge+-+Starting+Files/images/dice6.png',
+    '/images/dice1.png',
+    '/images/dice2.png',
+    '/images/dice3.png',
+    '/images/dice4.png',
+    '/images/dice5.png',
+    '/images/dice6.png',
   ];
 
   const dado1 = document.querySelector('.img1');
