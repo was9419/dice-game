@@ -5,12 +5,12 @@ allDice.forEach((img) => {
 });
 document.addEventListener('DOMContentLoaded', () => {
   const images = [
-    '/images/dice1.png',
-    '/images/dice2.png',
-    '/images/dice3.png',
-    '/images/dice4.png',
-    '/images/dice5.png',
-    '/images/dice6.png',
+    '/dice-game/images/dice1.png',
+    '/dice-game/images/dice2.png',
+    '/dice-game/images/dice3.png',
+    '/dice-game/images/dice4.png',
+    '/dice-game/images/dice5.png',
+    '/dice-game/images/dice6.png',
   ];
 
   const dado1 = document.querySelector('.img1');
